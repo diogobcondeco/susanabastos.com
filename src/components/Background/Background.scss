@@ -1,0 +1,4 @@
+.background-image {
+  background-image: url('../../images/background.jpg');
+  @apply absolute top-0 left-0 w-full h-full bg-cover bg-center blur scale-105;
+}
